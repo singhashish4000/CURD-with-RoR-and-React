@@ -20,3 +20,14 @@ application up and running.
 
 6.All Done
 
+NOTE : 
+
+* The secrets.yml file is blank in this project as its unique and confidential
+* To get the secrets.yml file content's just initiliaze a new project in rails
+
+  rails new Project
+  
+*Open this Project ,Open config/secrets.yml file and copy paste in the main project
+
+It should the work.
+
