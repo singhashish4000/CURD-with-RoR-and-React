@@ -27,7 +27,7 @@ NOTE :
 
   rails new Project
   
-*Open this Project ,Open config/secrets.yml file and copy paste in the main project
+*Open the Project ,Open config/secrets.yml file and copy paste in the main project
 
-It should the work.
+It should do the work.
 
